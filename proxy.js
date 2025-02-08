@@ -56,7 +56,7 @@ process.on('unhandledRejection', (reason, promise) => {
 
 const main = async () => {
   const relay = new Relay({
-    username: client.username,
+    username: 'username',
     host: '0.0.0.0',
     port: 19132,
     skinData: { 
