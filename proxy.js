@@ -7,7 +7,8 @@ let m = {}
 let rc, h, p
 let wt;
 
-const rs = prompt('Server Or Realm: ')
+let rs = prompt('Server Or Realm: ')
+rs = rs.toLowerCase()
 
 if (rs === 'server' || rs === 's'){
   h = prompt('Host: ')
