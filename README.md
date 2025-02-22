@@ -1,5 +1,5 @@
 # mcbe-relay-client
-Single file minecraft utilities
+Single file minecraft utility client!
 
 https://discord.gg/BHDtvGkV23
 
