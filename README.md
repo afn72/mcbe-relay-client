@@ -1,5 +1,5 @@
 # mcbe-relay-client
-Single file minecraft cheats!
+Single file minecraft utilities
 
 https://discord.gg/BHDtvGkV23
 
